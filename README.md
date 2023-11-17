@@ -1,6 +1,6 @@
 # Nobel-Prize-Analysis-
 This is a Exploratory Data Analysis project which I conducted over Nobel Prize Laureates.  
-###Outcomes of this Analysis are-
+<h3>Outcomes of this Analysis are-</h3>
 
 Nobel Prize Analysis:
 In this data science project, I tried to analyse a dataset on the past winners of the Nobel Prize to see what patterns we can uncover in the past Nobel laureates and what we can learn about the Nobel Prize and our world more generally.
